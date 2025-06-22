@@ -2,6 +2,9 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
+  - title: Best Paper Award - Runner Up
+    description: SPIE Biophotonics Summer School 2025
+    date: Jun. 2025
   - title: JSR Fellowship
     description: JSR Corporation's scholarship
     date: Apr. 2025

@@ -2,6 +2,12 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
+  - title: MITOU Target Program
+    role: Participant
+    description:
+      - Development of a Fault-Tolerant Quantum Computing Compiler for Measurement-based Quantum Computing.
+      - "[https://www.ipa.go.jp/jinzai/mitou/target/2025/gaiyou-ty-2.html](https://www.ipa.go.jp/jinzai/mitou/target/2025/gaiyou-ty-2.html)" 
+      date: Jun. 2025 - Ongoing
   - title: NICT Quantum Camp (Exploratory Talent Development Program)
     role: Participant
     description:
